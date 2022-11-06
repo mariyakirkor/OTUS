@@ -1,0 +1,5 @@
+node_modules
+html-report
+allure-results
+jest-html-reporters-attach
+report.html
